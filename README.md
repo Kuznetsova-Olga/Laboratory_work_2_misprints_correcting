@@ -17,5 +17,6 @@ Four algorithms were implemented:
 2) distance based on frequency  
 3) Levenshtein distance  
 4) Jaro-Winkler distance  
+
 **The Levenshtein distance** is a metric that measures the similarity between two strings of characters by calculating the minimum number of single-character elementary operations, such as insertion, deletion, and replacement, required to transform one string into another.  
  
