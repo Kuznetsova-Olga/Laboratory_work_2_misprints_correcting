@@ -10,12 +10,12 @@ This repository contains only two files with the main code for the project. The 
 5.Run the program to verify that it works correctly and to see the results.  
 
 **Laboratory work description**    
-This work involves the implementation of several string distance metrics, which are a key component of the spellcheck system.  
+This work involves the implementation of several string distance metrics, which are a key component of the spell checker system.  
 The main task was to identify a word containing a possible typo and suggest a suitable replacement. Proximity is determined by calculating the distance between strings.
-4 algorithms were implemented:  
+Four algorithms were implemented:  
 1) distance based on the Jaccard similarity coefficient  
 2) distance based on frequency  
 3) Levenshtein distance  
+4) Jaro-Winkler distance
 **The Levenshtein distance** is a metric that measures the similarity between two strings of characters by calculating the minimum number of single-character elementary operations, such as insertion, deletion, and replacement, required to transform one string into another.  
-4) Jaro-Winkler distance  
  
