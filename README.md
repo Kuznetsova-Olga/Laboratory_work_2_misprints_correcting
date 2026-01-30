@@ -11,7 +11,7 @@ This repository contains only two files with the main code for the project. The 
 
 **Laboratory work description**    
 This work involves the implementation of several string distance metrics, which are a key component of the spell checker system.  
-The main task was to identify a word containing a possible typo and suggest a suitable replacement. Proximity is determined by calculating the distance between strings.
+The main task was to identify a word containing a possible typo and suggest a suitable replacement. Proximity is determined by calculating the distance between strings.  
 Four algorithms were implemented:  
 1) distance based on the Jaccard similarity coefficient  
 2) distance based on frequency  
