@@ -9,7 +9,7 @@ This repository contains only two files with the main code for the project. The 
 4.Replace the files in the corresponding laboratory work with the files from this repository.  
 5.Run the program to verify that it works correctly and to see the results.  
 
-Laboratory work descroption  
+**Laboratory work description**    
 This work involves the implementation of several string distance metrics, which are a key component of the spellchecke system.  
 The main task was to find a word with a possible typo and find a suitable replacement word. Proximity is determined based on calculating the “distance” between lines.  
 4 algorithms were implemented:  
